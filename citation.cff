@@ -6,6 +6,6 @@ authors:
   orcid: "https://orcid.org/0000-0002-3727-7965"
 title: "demos"
 version: 1.0.0
-doi: 10.5281/zenodo.1234
+DOI: 10.5281/zenodo.10625707
 date-released: 2024-02-06
 url: "https://github.com/clint-bg/demos"
